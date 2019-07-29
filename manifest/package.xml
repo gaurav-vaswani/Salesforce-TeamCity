@@ -17,6 +17,7 @@
     <members>Broker__c.Picture_IMG__c</members>
     <members>Broker__c.Picture__c</members>
     <members>Broker__c.Title__c</members>
+    <members>Case.Origin</members>
   </types>
   <types>
     <name>ListView</name>
@@ -34,6 +35,10 @@
     <name>Profile</name>
     <members>Admin</members>
     <members>System Developer</members>
+  </types>
+  <types>
+    <name>StandardValueSet</name>
+    <members>CaseOrigin</members>
   </types>
   <version>46.0</version>
 </Package>
