@@ -26,6 +26,11 @@
     <members>Course_Programs__c.All</members>
   </types>
   <types>
+    <name>RecordType</name>
+    <members>Broker__c.External</members>
+    <members>Broker__c.Internal</members>
+  </types>
+  <types>
     <name>Profile</name>
     <members>Admin</members>
     <members>System Developer</members>

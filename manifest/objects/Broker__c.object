@@ -225,6 +225,16 @@
         <fields>Email__c</fields>
         <label>Broker Compact</label>
     </compactLayouts>
+    <recordTypes>
+        <fullName>External</fullName>
+        <active>true</active>
+        <label>External</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Internal</fullName>
+        <active>true</active>
+        <label>Internal</label>
+    </recordTypes>
     <listViews>
         <fullName>All</fullName>
         <columns>NAME</columns>
