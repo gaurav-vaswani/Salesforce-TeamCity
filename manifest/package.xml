@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
+    <name>CustomObject</name>
+    <members>Course_Programs__c</members>
+  </types>
+  <types>
+    <name>ListView</name>
+    <members>Course_Programs__c.All</members>
+  </types>
+  <types>
     <name>Profile</name>
     <members>Admin</members>
     <members>System Developer</members>
