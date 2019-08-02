@@ -34,6 +34,7 @@
   <types>
     <name>Profile</name>
     <members>Admin</members>
+    <members>Custom</members>
     <members>System Developer</members>
   </types>
   <types>
