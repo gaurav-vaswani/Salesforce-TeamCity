@@ -35,6 +35,7 @@
     <name>Profile</name>
     <members>Admin</members>
     <members>Custom</members>
+    <members>Scratch Administrator</members>
     <members>System Developer</members>
   </types>
   <types>
